@@ -42,16 +42,3 @@ It connects data stored in AWS S3, queries it with Athena, visualizes KPIs in Po
    - AI-generated text summary (via OpenAI API)
    - Example output:
      > “North region leads sales but has lower profit margin due to high discounts.”
-
----
-
-### 🗂 File Structure
-
-ai-sales-insights-aws/
-│
-├── data/ # Dataset
-├── scripts/ # Python automation
-├── visuals/ # Screenshots / Dashboard images
-├── ai_summary_output.txt # AI-generated business summary
-├── requirements.txt
-└── README.md
