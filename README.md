@@ -9,10 +9,6 @@ It connects data stored in AWS S3, queries it with Athena, visualizes KPIs in Po
 ### 🏗 Architecture
 **AWS S3 → AWS Athena → Power BI → Python (OpenAI API)**
 
-![Architecture Diagram](https://via.placeholder.com/800x400?text=Architecture+Flow)
-
----
-
 ### 🎯 Objectives
 - Host and query data using AWS cloud tools  
 - Automate analytics using Python  
